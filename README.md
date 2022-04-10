@@ -1,2 +1,0 @@
-# start
-For Humanity

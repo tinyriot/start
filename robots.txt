@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tinyriot.github.io//start/sitemap.xml
